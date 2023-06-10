@@ -1,0 +1,15 @@
+.odd {
+    background-color: rgb(215, 0, 90);
+    font-family: 'Verndana', 'DejaVu', 'sans-serif';
+}
+#even-one {
+    color: blue;
+    font-size: 36px;
+}
+.font-size {
+    font-size: 24px;
+}
+#even-two {
+    background-color: lightgreen;
+    font-weight: bold;
+}
